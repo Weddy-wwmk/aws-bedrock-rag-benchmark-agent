@@ -1,1 +1,0 @@
-# aws-bedrock-rag-benchmark-agent
